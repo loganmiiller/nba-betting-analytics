@@ -1,7 +1,14 @@
-#NBA Betting Odds & Performance Analytics Pipeline
+# NBA Betting Odds & Performance Analytics Pipeline
 
-#Status: In Progress
+## Status: In Progress
 
-#This project is currently being developed as part of a portfolio build.
+This project is currently being developed as part of a portfolio build.
 The goal is to build an ETL NBA Analytics pipeline integrating BallDontLie API and the Odds-API
 to evaluate whether players consistently hit their betting lines
+
+### Features
+- ETL Pipeline
+- Integration of APIs
+- PostgreSQL data warehouse
+- SQL Analytics
+- Apache Airflow (In Progress)
