@@ -1,0 +1,5 @@
+.env
+.venv
+database/supabase.py
+__pycache__/
+*.pyc
